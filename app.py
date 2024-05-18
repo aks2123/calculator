@@ -1,5 +1,5 @@
 import streamlit as st
-st.title('My first app')
+st.title('Calculator App')
 a = st.number_input('Enter a number1')
 b = st.number_input('Enter a number2')
 #st.button('Add', key='add')
